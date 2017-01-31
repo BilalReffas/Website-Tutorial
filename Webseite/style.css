@@ -1,0 +1,30 @@
+body{
+  font-family: 'Celias-Medium';
+  color: #4c4c4c;
+}
+
+hr{
+  width: 100px;
+}
+
+h1{
+  text-align: center;
+  margin: 30px;
+}
+
+img:hover{
+  transform: scale(1.05);
+}
+
+img{
+  width: 30%;
+  padding: 0.4%;
+  margin: 1.1%;
+  float: left;
+  border-radius: 2px;
+  transition: transform 0.3s;
+}
+
+#bilder{
+  margin-top: : 30px;
+}
